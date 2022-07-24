@@ -1,0 +1,265 @@
+﻿  Source.cpp
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(232,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(233,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,26): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,26): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,26): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,26): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,26): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,48): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,48): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,48): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,48): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(236,48): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,59): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,59): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,59): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,59): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,59): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(248,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(249,44): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(249,44): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(249,44): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(249,44): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(249,44): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,36): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,36): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,36): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,36): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,36): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,69): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,69): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,69): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,69): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(250,69): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,59): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,59): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,59): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,59): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,59): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(255,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(256,44): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(256,44): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(256,44): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(256,44): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(256,44): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,36): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,36): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,36): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,36): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,36): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,69): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,69): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,69): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,69): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(257,69): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(275,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(276,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,26): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,26): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,26): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,26): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,26): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,48): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,48): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,48): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,48): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(279,48): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,59): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,59): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,59): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,59): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,59): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(290,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(291,44): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(291,44): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(291,44): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(291,44): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(291,44): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,36): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,36): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,36): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,36): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,36): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,69): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,69): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,69): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,69): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(292,69): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,59): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,59): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,59): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,59): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,59): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(297,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(298,44): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(298,44): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(298,44): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(298,44): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(298,44): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,36): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,36): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,36): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,36): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,36): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,69): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,69): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,69): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,69): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(299,69): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(321,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,15): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,15): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,15): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,15): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,15): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,28): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,28): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,28): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,28): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,41): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,41): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,41): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,41): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(327,41): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,15): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,15): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,15): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,15): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,15): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,28): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,28): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,28): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,28): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,41): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,41): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,41): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,41): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(333,41): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(345,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,15): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,15): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,15): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,15): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,15): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,28): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,28): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,28): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,28): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,41): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,41): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,41): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,41): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(350,41): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(364,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,46): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,46): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,46): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,46): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,46): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,82): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,82): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,82): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,82): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,82): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,118): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,118): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,118): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,118): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(367,118): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,50): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,50): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,50): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,50): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,50): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,90): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,90): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,90): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,90): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,90): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,130): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,130): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,130): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,130): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(368,130): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,50): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,50): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,50): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,50): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,50): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,90): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,90): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,90): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,90): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,90): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,130): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,130): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,130): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,130): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(369,130): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(407,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(408,24): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(408,24): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(408,24): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(408,24): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(408,24): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(409,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(409,28): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(409,28): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(409,28): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(409,28): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(410,28): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(410,28): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(410,28): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(410,28): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(410,28): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(421,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,47): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,47): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,47): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,47): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,47): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,82): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,82): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,82): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,82): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,82): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,117): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,117): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,117): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,117): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(424,117): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,51): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,51): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,51): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,51): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,51): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,90): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,90): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,90): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,90): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,90): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,129): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,129): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,129): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,129): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(425,129): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,51): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,51): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,51): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,51): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,51): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,90): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,90): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,90): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,90): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,90): warning C4244:         ]
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,129): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,129): warning C4244:         with
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,129): warning C4244:         [
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,129): warning C4244:             _Ty=double
+C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Source.cpp(426,129): warning C4244:         ]
+  TXT_K-STL_Convertor.vcxproj -> C:\Users\LENOVO\Desktop\Дипломная работа\TXT_K-STL_Convertor\Debug\TXT_K-STL_Convertor.exe
